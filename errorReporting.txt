@@ -1,0 +1,53 @@
+ERROR REPORT - LEVEL 1, BRONZE
+==============================
+
+Below you will write your debugging report by answering the following questions about the 4 errors you found.
+
+-----------------------------------------------------------------------
+
+ERROR 1
+=======
+
+1. What line did you find the error?
+
+The error was in line 11.
+
+2.What was the error and how did you fix it?
+
+The error was that the web developer did not put the correct name of the picture file. The flie's original name is "shirt.png" but the developer put "shirt.jgp". Due to that mistake, the computer can't find the file to insert the image. I fixed this by instering the element <img src= "shirt.png">. 
+
+ERROR 2
+=======
+
+1. What line did you find the error?
+
+The error was in line 15.
+
+2.What was the error and how did you fix it?
+
+The error was that the tag was <paragraph> but there is no element tag named <paragraph>. The real element for a paragrapgh is <p> </p>. I fixed the code by replacing <paragraph></paragraph> with <p></p>. In the CSS code, it says that if the tag is <p></p>, then the words will align in the center. 
+
+ERROR 3
+=======
+
+1. What line did you find the error?
+
+The error was in line 13.
+
+2.What was the error and how did you fix it?
+
+The error was that the heading was to be Heading 2 <h2> but the developer used Heading 6 <h6> instead. This caused the word to be smaller. I fix the code by replacing <h6></h6> with <h2></h2>. The CSS, is sent that if the tag was <h2></h2>, then the word would be centered.  
+
+
+
+ERROR 4
+=======
+
+1. What line did you find the error?
+
+The error was in line 16.
+
+2.What was the error and how did you fix it?
+
+The error was that there was no closing tags for the paragraph. I fixehttps://replit.com/@WDp7-8/Learners-Bronze-Debug-AFRINKHAN2#errorReporting.txtd the the issue by adding the closing tag, </p> at the end of the sentence. 
+
